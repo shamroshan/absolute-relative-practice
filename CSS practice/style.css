@@ -1,0 +1,122 @@
+*{
+    margin: auto;
+}
+body{
+    background-color:#232830;
+    
+}
+.text-white{
+    color: white;
+}
+.pt-50{
+    padding-top: 50px;
+}
+.pb-50{
+    padding-bottom: 50px;
+}
+.pb-10{
+    padding-bottom: 10px;
+    align-items: center;
+}
+.pl-70{
+    padding-left: 70px;
+    
+}
+.pr-940{
+    padding-right: 940px;
+}
+.pr-1135{
+    padding-right: 1135px;
+}
+.pr-200{
+    padding-right: 100px;
+}
+.pr-70{
+    padding-right: 70px;
+}
+.pr-20{
+    padding-right: 20px;
+}
+.none{
+    text-decoration: none;
+    
+    font-size: large;
+}
+.none-1{
+    text-decoration: none;
+}
+.text-transform{
+    text-transform: capitalize;
+}
+.diplay{
+    display: inline;
+}
+.center{
+    
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+.fs-50{
+    font-size: 50px;
+}
+.fs-26{
+    font-size: 26px;
+}
+.larger{
+    font-size: larger;
+}
+.tree-size{
+    height: 200px;
+    width: 250px;
+}
+.justify{
+    justify-content:first baseline;
+}
+.box{
+    border: black;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    margin: 10px;
+    border-width: 5px;
+    border-style:double;
+    width: 280px;
+}
+.tree{
+    border-radius: 20px;
+    border-top: 10px;
+    padding-top: 10px;
+}
+.absolute{
+    position: absolute;
+    left: 292px;
+
+}
+.pl-17{
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+   
+}
+.txt-padding{
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.top-1196{
+    top: 1230px;
+}
+.top-1596{
+    top: 1655px;
+}
+.apl-num{
+    top: 2100px;
+    left: 619px;
+}
+.relative{
+    position: relative;
+    top: 1365px;
+    padding-bottom: 100px;
+}
